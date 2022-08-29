@@ -1,0 +1,1 @@
+调试 cocoapods-cat-bin 报错 cannot load such file -- cocoapods-project-gen    已经安装 gem install cocoapods-project-gen 
